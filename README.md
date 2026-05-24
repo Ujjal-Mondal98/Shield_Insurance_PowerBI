@@ -269,7 +269,7 @@ Data Analyst | Power BI | SQL | Excel | Python | Business Analytics
 ### Project Links:
 
 🔗 LinkedIn: *(Add your profile)*  
-🔗 Youtube: *(Add your profile)*  
+🔗 Youtube: [*(Click here to see the explanation)*](https://www.youtube.com/watch?v=_DQp8dX1wqo)  
 
 ---
 
