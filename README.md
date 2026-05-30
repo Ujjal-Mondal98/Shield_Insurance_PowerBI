@@ -268,7 +268,7 @@ Data Analyst | Power BI | SQL | Excel | Python | Business Analytics
 
 ### Project Links:
 
-🔗 LinkedIn: *(Add your profile)*  
+🔗 LinkedIn: [*(Click here to see the engagement)* ](https://www.linkedin.com/posts/ujjalmondal_codebasicsvirtualinternship-powerbi-dataanalyst-activity-7464521884764901376-Ot_r?utm_source=share&utm_medium=member_desktop&rcm=ACoAADdvak8B0Zwmdf3JbEXWL7tzIaAem94O4pQ) 
 🔗 Youtube: [*(Click here to see the explanation)*](https://www.youtube.com/watch?v=_DQp8dX1wqo)  
 
 ---
